@@ -12,7 +12,7 @@ The terms used in this privacy policy have the same meanings as in our terms and
 
 For a better user experience, we may require you to provide us with certain personally identifiable information, including but not limited to contacts, call log, and accounts. We have used the ROOM database for database management, so all your data is saved on your phone and never leaves your device to our servers. No data is collected by us in any way.
 
-The app does use third-party services from Google Play Services. We have employed third-party companies and individuals to facilitate the process of Google sign-in, to read and write contacts from your Google account, and to backup and restore the database file to Google Drive.
+The app uses third-party services from Google Play Services. We have employed third-party companies and individuals to facilitate the process of Google sign-in, to read and write contacts from your Google account, and to backup and restore the database file to Google Drive.
 
 ## Service Providers
 
