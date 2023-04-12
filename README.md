@@ -18,18 +18,28 @@ Refer https://dontkillmyapp.com/ to whitelist app.
 
 ### Features
 
-- Store Contact Details: Easily add and edit contact details, including name and phone number.
-- Show a Popup of Who's Calling: Get notified when someone calls you and see their name and number on a popup window.
-- Make WhatsApp Texts: Initiate WhatsApp texts directly from  the app without the contact showing up in your WhatsApp contact list.
-- See Call Logs of All Users: View all call logs, including missed, received, and dialed calls.
-- Mark favorite contacts:Easily access your favorite contacts from the app's homepage.
-- Import Contact Details from Various Sources: Import contact details from VCF files, Excel sheets, your stock phonebook, and Google Book (GBook).
-- Export Contact Details to VCF Format: Export your contact details to a VCF file for backup or sharing purposes.
-- Auto-Backup to Local device storage: The app automatically backs up your contact details to your device's local storage, ensuring you never lose your contacts.
-- Backup database to Google Drive: Back up your contact database to Google Drive for added security.
-- Restore database from Google Drive: Restore your contact database from Google Drive with ease.
-- Add or delete contacts saved in the app to the Stock PhoneBook or GBook with just   one click
-- Choose between call, SMS, or WhatsApp for the Quick Button
+#### Store Contact Details:
+Easily add and edit contact details, including name and phone number.
+#### Show a Popup of Who's Calling: 
+Get notified when someone calls you and see their name and number on a popup window.
+#### Make WhatsApp Texts: 
+ Initiate WhatsApp texts directly from  the app without the contact showing up in your WhatsApp contact list.
+#### See Call Logs of All Users: 
+ View all call logs, including missed, received, and dialed calls.
+#### Mark favorite contacts:
+ Easily access your favorite contacts from the app's homepage.
+#### Import Contact Details from Various Sources:
+ Import contact details from VCF files, Excel sheets, your stock phonebook, and Google Book (GBook).
+#### Export Contact Details to VCF Format:
+Export your contact details to a VCF file for backup or sharing purposes.
+#### Auto-Backup to Local device storage:
+The app automatically backs up your contact details to your device's local storage, ensuring you never lose your contacts.
+#### Backup database to Google Drive:
+Back up your contact database to Google Drive for added security.
+#### Restore database from Google Drive:
+Restore your contact database from Google Drive with ease.
+#### Add or delete contacts saved in the app to the Stock PhoneBook or GBook with just one click
+#### Choose between call, SMS, or WhatsApp for the Quick Button
 
 ### Contributing
 We welcome any feedback or suggestions for new features you'd like to see in the Contact app. Feel free to open up an issue or feature request on our GitHub page.
