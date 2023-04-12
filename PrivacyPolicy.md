@@ -4,7 +4,7 @@ Vipul Mittal created the Contact app as a commercial service that is intended fo
 
 By using our service, you agree to the collection and use of information in accordance with this policy. The personal information we collect is used for providing and improving our service. We will not use or share your information with anyone except as described in this privacy policy.
 
-Definitions
+## Definitions
 
 The terms used in this privacy policy have the same meanings as in our terms and conditions, which are accessible at Contact, unless otherwise defined in this privacy policy.
 
