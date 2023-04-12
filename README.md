@@ -1,7 +1,7 @@
 # Contact
 
 ### About
-Welcome to Contact, the ultimate app for keeping your contacts separate from those sneaky apps like WhatsApp and Telegram that love to steal your contacts and add them to their list without your permission!
+Welcome to Contact App, the ultimate app for keeping your contacts separate from those sneaky apps like WhatsApp and Telegram that love to steal your contacts and add them to their list without your permission!
 
 ### Why?
 Do you ever find yourself saving a contact just for the sake of having it on your list? If so, you're not alone. But with apps like WhatsApp reading your phone's contact list, those contacts become a part of your WhatsApp feed and while WhatsApp does provide some privacy settings, it can be a hassle to manually exclude contacts.
