@@ -22,15 +22,15 @@ We want to inform users of this service that these third parties have access to 
 
 The Contact app requires the following permissions to provide its services:
 
-- Call: We need this permission to allow users to call a number directly from the app.
-- Read Call Log: We need this permission to know the number of incoming and outgoing calls and then search the number in the offline database to show the popup of contact's name. We also need this permission to retrieve call logs from the user's device.
-- Read Phone State: We need this permission to notify the user as soon as a call is made or received.
-- Read Contacts: We need this permission to read contacts for the purpose of adding them to our app's database.
-- Write Contacts: We need this permission to add or delete contacts from the user's phonebook directly from the app.
-- System Alert Window: We need this permission to show a popup to the user when a call is made or received.
-- Foreground Service: We need this permission to let our app run in the background all the time. Please note that this won't drain your battery, as the app isn't connected to servers.
-- Internet: We need this permission to let a user sign in to their Google account. We also use this permission to upload and download the database file to and from Google Drive.
-- Get Accounts: We need this permission to search for all the accounts logged into the user's phone.
+- **Call:** We need this permission to allow users to call a number directly from the app.
+- **Read Call Log:** We need this permission to know the number of incoming and outgoing calls and then search the number in the offline database to show the popup of contact's name. We also need this permission to retrieve call logs from the user's device.
+- **Read Phone State:** We need this permission to notify the user as soon as a call is made or received.
+- **Read Contacts:** We need this permission to read contacts for the purpose of adding them to our app's database.
+- **Write Contacts:** We need this permission to add or delete contacts from the user's phonebook directly from the app.
+- **System Alert Window:** We need this permission to show a popup to the user when a call is made or received.
+- **Foreground Service:** We need this permission to let our app run in the background all the time. Please note that this won't drain your battery, as the app isn't connected to servers.
+- **Internet:** We need this permission to let a user sign in to their Google account. We also use this permission to upload and download the database file to and from Google Drive.
+- **Get Accounts:** We need this permission to search for all the accounts logged into the user's phone.
 
 ## Security
 We value your trust in giving your personal data to the app. We fully assure you that no data leaves your device to our servers. All data is stored on your phone, and you may choose to backup your database file to your Google Drive. This is the only possible way that your data leaves your phone and is sent to the cloud.
