@@ -1,66 +1,54 @@
-Privacy Policy
+## Privacy Policy
 
-Vipul Mittal built the Contact app as a Commercial app. This SERVICE is provided by Vipul Mittal and is intended for use as is.
+Vipul Mittal created the Contact app as a commercial service that is intended for use as is. This page is designed to inform users about our policies regarding the collection, use, and disclosure of personal information if you choose to use our service.
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+By using our service, you agree to the collection and use of information in accordance with this policy. The personal information we collect is used for providing and improving our service. We will not use or share your information with anyone except as described in this privacy policy.
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+Definitions
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Contact unless otherwise defined in this Privacy Policy.
+The terms used in this privacy policy have the same meanings as in our terms and conditions, which are accessible at Contact, unless otherwise defined in this privacy policy.
 
-Permission Required
-Call - I need this permission to let users call a number, directly from the app
-Read Call Log - I need this permission to know the number of incoming and outgoing calls and then search the number in the offline database to show the popup of contact's name. Also, I need this permission to retrieve call logs from user's device
-Read Phone State - I need this permission to notify the user as soon a call is made or received
-Read Contacts - I need this permission to read contacts for the purpose of adding the contacts to my app's database. 
-Write Contacts - I need this permission to add or delete contacts from user's phonebook, directly from the app
-System Alert Window - I need this permission to show a popup to the user when a call is made or received.
-Foreground service - I need this permission to let my app run in the background, all the time. Don't worry, it won't drain your battery as the app isn't connected to servers.
-Internet - I need this permission to let a user sign in to his/her Google account. Also this permission is used to upload and download database file to and from Google Drive.
-Get Accounts - I need this permission to search for all the accounts logged in the user's phone.
+## Information Collection and Use
 
+For a better user experience, we may require you to provide us with certain personally identifiable information, including but not limited to contacts, call log, and accounts. We have used the ROOM database for database management, so all your data is saved on your phone and never leaves your device to our servers. No data is collected by us in any way.
 
-Information Collection and Use
+The app does use third-party services from Google Play Services. We have employed third-party companies and individuals to facilitate the process of Google sign-in, to read and write contacts from your Google account, and to backup and restore the database file to Google Drive.
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to Contacts, Call Log, Accounts.
+## Service Providers
 
-I have used ROOM database for database management, so all your data is saved on your phone and never leaves your device to my own servers. No sort of data is collected by me in any way. 
+We want to inform users of this service that these third parties have access to their personal information. The reason for this is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
-The app does use third-party services from Google Play Services
+## Permissions Required
 
+The Contact app requires the following permissions to provide its services:
 
-Service Providers
+- Call: We need this permission to allow users to call a number directly from the app.
+- Read Call Log: We need this permission to know the number of incoming and outgoing calls and then search the number in the offline database to show the popup of contact's name. We also need this permission to retrieve call logs from the user's device.
+- Read Phone State: We need this permission to notify the user as soon as a call is made or received.
+- Read Contacts: We need this permission to read contacts for the purpose of adding them to our app's database.
+- Write Contacts: We need this permission to add or delete contacts from the user's phonebook directly from the app.
+- System Alert Window: We need this permission to show a popup to the user when a call is made or received.
+- Foreground Service: We need this permission to let our app run in the background all the time. Please note that this won't drain your battery, as the app isn't connected to servers.
+- Internet: We need this permission to let a user sign in to their Google account. We also use this permission to upload and download the database file to and from Google Drive.
+- Get Accounts: We need this permission to search for all the accounts logged into the user's phone.
 
-I have employed third-party companies and individuals due to the following reasons:
+## Security
+We value your trust in giving your personal data to the app. We fully assure you that no data leaves your device to our servers. All data is stored on your phone, and you may choose to backup your database file to your Google Drive. This is the only possible way that your data leaves your phone and is sent to the cloud.
 
-To facilitate the process of Google sign-in
-To read and write contacts from your Google Account 
-To backup and restore database file to Google Drive
+## Changes to This Privacy Policy
 
-I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+We may update our privacy policy from time to time. Thus, we advise you to review this page periodically for any changes. We will notify you of any changes by posting the new privacy policy on this page.
 
-Security
+## Links to Other Sites
+We take the privacy of our users very seriously and are committed to protecting it in all aspects of our service. As part of our service, we may provide links to third-party websites, specifically WhatsApp, for the purpose of opening a user's WhatsApp page. Please note that these external sites are not operated by us, and we have no control over their content, privacy policies, or practices.
 
-I value your trust in giving your personal data to the app. I fully assure that no data leaves from your device to our own servers. All the data is stored on your phone.
-You may choose to backup your database file to your Google Drive. This is the only possible way that your data leaves your phone and is sent to cloud
+Therefore, we strongly advise our users to review the privacy policies of these third-party websites before engaging with them. We assume no responsibility or liability for any actions or consequences that may result from accessing or using these external sites. Your use of any third-party website or service is at your own risk, and we encourage you to exercise caution and prudence in such situations.
 
-Links to Other Sites
+If you have any concerns or questions about our policy on external links, please do not hesitate to contact us for more information.
 
-This Service comtains links to other sites (WhatsApp). This link is used to open the WhatsApp page of that user. 
-If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+## Children’s Privacy
+We do not collect personally identifiable information irrespective of age.
 
-Children’s Privacy
+## Contact Us
 
-I do not collect personally identifiable information irrespective of age.
-
-Changes to This Privacy Policy
-
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
-
-This policy is effective as of 2023-04-10
-
-Contact Us
-
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at vipulmittalce@gmail.com.
-
-This privacy policy page was created at privacypolicytemplate.net and modified/generated by App Privacy Policy Generator
+If you have any questions or suggestions about our privacy policy, do not hesitate to contact us at vipulmittalce@gmail.com .
