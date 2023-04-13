@@ -1,5 +1,3 @@
-<meta name="google-site-verification" content="7YLYj7xp4Qd9fmBjtScZn6Gr2gg8HOkVLkrsFQ1MU6Y" />
-
 # Contact
 
 ## About
@@ -44,7 +42,7 @@ Restore your contact database from Google Drive with ease.
 ### Choose between call, SMS, or WhatsApp for the Quick Button
 
 ## Privacy Policy
-You may refer to our [Privacy Policy](https://vipulm7.github.io/Contact/PrivacyPolicy.md)
+You may refer to our [Privacy Policy](https://vipulm7.github.io/Contact/PrivacyPolicy.html)
 
 ## Contributing
 We welcome any feedback or suggestions for new features you'd like to see in the Contact app. Feel free to open up an issue or feature request on our GitHub page.
