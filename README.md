@@ -43,3 +43,6 @@ Restore your contact database from Google Drive with ease.
 
 ## Contributing
 We welcome any feedback or suggestions for new features you'd like to see in the Contact app. Feel free to open up an issue or feature request on our GitHub page.
+
+## Privacy Policy
+You may refer to our Privacy Policy at https://vipulm7.github.io/Contact/PrivacyPolicy.md
